@@ -1,0 +1,30 @@
+# Reflections - lesson 1
+
+
+## 1 - How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+* It was handy because it highlighted the lines that had changed. 
+* Much easier to skim and find what you need that way.
+
+
+## 2 - How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+* It can help you identify the point in time when a bug was introduced to the code.
+* This way you can restore one file or line to an earlier version without having start everything again from scratch.
+
+
+## 3 - What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+* The biggest pro is you can make it easier for yourself (in the future) and others (any time) to understand the logical change that took place when you committed the code.
+* The cons are you have to learn how to *use* git, and you have to remember to commit manuall since it doesn't auto-save.
+
+
+## 4 - Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Simply to allow more flexibility and allow you to make one commit per logical change.
+
+
+## 5 - How can you use the commands git log and git diff to view the history of files?
+
+| Git log | Git diff |
+| View overview off changes across many commits | View specific changes between two given commits |
