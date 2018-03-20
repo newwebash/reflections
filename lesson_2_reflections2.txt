@@ -1,0 +1,13 @@
+# Reflections - Lesson 2
+
+
+## 1 - What happens when you initialize a repository? Why do you need to do it?
+
+* Converts working directory into a git repo.
+* You need to do it to be able to run git commands on the directory.
+
+
+## 2 - How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+| Staging area | Working directory | Repository |
+| Contains log of changes that have been made but not committed | Part of repository, contains files | Holds all directories and subdirectories |
