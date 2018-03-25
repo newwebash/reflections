@@ -11,3 +11,9 @@
 
 | Staging area | Working directory | Repository |
 | Contains log of changes that have been made but not committed | Part of repository, contains files | Holds all directories and subdirectories |
+
+
+## 3 - What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+It takes the commits from two different branches and combines them into one branch.
+We represent it in the diagram to visualize the changes made in each branch and compare the changes.
