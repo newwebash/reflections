@@ -17,3 +17,9 @@
 
 It takes the commits from two different branches and combines them into one branch.
 We represent it in the diagram to visualize the changes made in each branch and compare the changes.
+
+
+## 4 - What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+| Pros | Cons |
+|  |  |
